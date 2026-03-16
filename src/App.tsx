@@ -20,9 +20,9 @@ function App() {
         {/* Sidebar */}
         <aside className="sidebar">
           <ul className="sidebar-links">
-            <li><a href="/link1">Link 1</a></li>
-            <li><a href="/link2">Link 2</a></li>
-            <li><a href="/link3">Link 3</a></li>
+            <li><a href="#">Link 1</a></li>
+            <li><a href="#">Link 2</a></li>
+            <li><a href="#">Link 3</a></li>
           </ul>
         </aside>
 
